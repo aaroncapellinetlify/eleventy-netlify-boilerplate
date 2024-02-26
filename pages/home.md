@@ -9,6 +9,6 @@ eleventyNavigation:
 ---
 # Welcome
 
-Writings at the intersection of literature and philosophy.
+Writings on the intersection of literature and philosophy.
 
 [](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
