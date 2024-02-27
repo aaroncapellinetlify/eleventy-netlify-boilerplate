@@ -12,3 +12,5 @@ eleventyNavigation:
 Writings on the intersection of literature and philosophy.
 
 [](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+
+![](/static/img/08099794-1362-4fca-8f14-308dda80efd9.jpg)
