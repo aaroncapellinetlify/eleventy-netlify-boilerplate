@@ -14,6 +14,6 @@ summary: Since every song on ‘Loud’ feels ‘really good,’ and only one so
   Rihanna is featured so centrally on Kanye West’s ‘My Beautiful Dark Twisted
   Fantasy’ album.
 tags:
-  - post
+  - DecodingtheCulture
 ---
 pending
