@@ -10,9 +10,10 @@ summary: Since every song on ‘Loud’ feels ‘really good,’ and only one so
   positions are articulated as being on a value-spectrum, whereby Rihanna’s
   improvement as an artist is measured as being a leap from the singular to the
   universal, that the cultural implication of these albums strips these
-  positions of their philosophical purity, and it is for that reason that
-  Rihanna is featured so centrally on Kanye West’s ‘My Beautiful Dark Twisted
-  Fantasy’ album.
+  positions of their philosophical purity, destabilizing them from absolute
+  identities into powers of magnitude, and it is for that reason that Rihanna is
+  featured so centrally on Kanye West’s ‘My Beautiful Dark Twisted Fantasy’
+  album.
 tags:
   - DecodingtheCulture
 ---
