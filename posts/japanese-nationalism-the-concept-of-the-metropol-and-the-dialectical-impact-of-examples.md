@@ -1,5 +1,5 @@
 ---
-title: Japanese Nationalism, The Concept of the Metropol, and the Dialectical
+title: Japanese Nationalism, The Concept of the Metropole, and the Dialectical
   Impact of Examples
 date: 2024-02-28T02:32:38.170Z
 author: Aaron Capelli
