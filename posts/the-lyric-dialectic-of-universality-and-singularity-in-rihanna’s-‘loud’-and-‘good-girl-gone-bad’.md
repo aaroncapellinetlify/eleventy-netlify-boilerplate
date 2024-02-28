@@ -2,7 +2,7 @@
 title: The Lyric Dialectic of Universality and Singularity in Rihanna’s ‘Loud’
   and ‘Good Girl Gone Bad’
 date: 2024-02-28T01:38:10.731Z
-author: Anonymous
+author: Aaron Capelli
 summary: Since every song on ‘Loud’ feels ‘really good,’ and only one song on
   ‘Good Girl Gone Bad’ feels ‘really good’ (“Umbrella”), these albums are
   representatives of the lyric dialectic by which a poem places a reader in a
