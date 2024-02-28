@@ -1,5 +1,6 @@
 ---
-title: The Oedipal Complex’s Structural Precursor to be Found in the Faustian Bargain?
+title: Can the Oedipal Complex’s Structural Precursor be found in the Faustian
+  bargain?
 date: 2024-02-28T22:50:20.806Z
 author: Aaron Capelli
 summary: When Jung reads Freud, he does so in a way that sees him as essentially
