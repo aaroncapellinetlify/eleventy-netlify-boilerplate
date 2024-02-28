@@ -1,5 +1,5 @@
 ---
-title: "Wham!: Homosexuality, Psychoanalysis, Communism, and Culture"
+title: "Reading Wham!: Homosexuality, Psychoanalysis, Communism, and Culture"
 date: 2024-02-28T10:46:39.952Z
 author: Aaron Capelli
 summary: Wham!’s strangely counter-premonitory lyrics in their signature hit
