@@ -9,4 +9,10 @@ summary: An SEP article on Plato’s dialogue ‘Theaetetus’ is identical in t
 tags:
   - screenshotted
 ---
-Image Image
+![](/static/img/img_0396.jpg)
+
+
+
+
+
+![](/static/img/img_0397.jpg)
