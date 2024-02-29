@@ -8,6 +8,11 @@ summary: What do we learn by looking at the relationship between the concept of
   impact of examples on each other because Japan as a nation-state is an
   exemplar of the metropole concept, and the question demands that one take
   Tokyo as an example of the metropole.
-tags: []
+tags:
+  - screenshotted
 ---
-pending
+Image
+
+Image
+
+Image
