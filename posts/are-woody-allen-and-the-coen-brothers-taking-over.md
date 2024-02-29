@@ -1,5 +1,5 @@
 ---
-title: Are Woody Allen and the Coen Brothers Taking Over?
+title: Are Woody Allen and the Jews Taking Over?
 date: 2024-02-29T22:44:47.737Z
 author: Aaron Capelli
 summary: The New York Times alleged a Jewish takeover around the time of Biden’s
