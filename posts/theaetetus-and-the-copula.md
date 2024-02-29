@@ -10,6 +10,3 @@ tags:
   - screenshotted
 ---
 Image Image
-
-\
-Same thing.
