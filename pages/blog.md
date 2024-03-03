@@ -8,4 +8,12 @@ eleventyNavigation:
   key: Writings
   order: 2
 ---
+
+
+
+
+
+
+
+
 ![](/static/img/db190802-a133-462c-b6e0-a8b6edd8674a.jpeg)
