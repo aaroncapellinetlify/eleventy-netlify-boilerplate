@@ -11,8 +11,8 @@ summary: What do we learn by looking at the relationship between the concept of
 tags:
   - screenshotted
 ---
-![](/static/img/89aaf753-027c-48b0-87d7-ddff9ea49b90.jpeg)
+![](/static/img/part1_hires.jpeg)
 
-![](/static/img/63fd53e3-dfb4-4858-9b21-b0fa378a7ce4.jpeg)
+![](/static/img/part2_hires.jpeg)
 
 ![](/static/img/cb9558f3-dc44-4e32-a4ce-b0f3a50fbc88.jpeg)
