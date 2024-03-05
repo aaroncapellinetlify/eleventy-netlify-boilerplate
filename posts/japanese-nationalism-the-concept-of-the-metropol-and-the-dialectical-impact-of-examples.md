@@ -16,3 +16,5 @@ tags:
 ![](/static/img/part2_hires.jpeg)
 
 ![](/static/img/part3_hires.jpeg)
+
+The AI proceeded to recapitulate its own points. Attributing statements to the wrong speaker, either itself or its interlocutor, is a hallmark of the conversation’s proximity to what the AI should not acknowledge.
