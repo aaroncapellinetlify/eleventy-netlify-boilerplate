@@ -2,8 +2,8 @@
 title: The Case of Louis and Louise
 date: 2024-03-05T02:02:02.100Z
 author: Aaron Capelli
-summary: While Louise Glück’s career represents innerness, interiority and
-  insiderness, Louis CK’s represents outsiderness.
+summary: While Louise Glück’s career represents innerness, interiority, and
+  insiderness, Louis CK’s represents outsiderness and externality.
 tags:
   - DecodingtheCulture
 ---
