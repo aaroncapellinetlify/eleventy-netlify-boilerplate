@@ -15,4 +15,4 @@ tags:
 
 ![](/static/img/part2_hires.jpeg)
 
-![](/static/img/cb9558f3-dc44-4e32-a4ce-b0f3a50fbc88.jpeg)
+![](/static/img/part3_hires.jpeg)
