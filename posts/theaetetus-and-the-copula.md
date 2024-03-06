@@ -4,7 +4,8 @@ date: 2024-02-29T21:21:11.221Z
 author: Aaron Capelli
 summary: The conceptual distinction between objectual and propositional
   knowledge expressed in the Theaetetus is the relation established by the
-  copula between the subject and subject complement.
+  copula between the subject and subject complement. The copula expresses a
+  thing considered as having a quality.
 tags:
   - screenshotted
 ---
